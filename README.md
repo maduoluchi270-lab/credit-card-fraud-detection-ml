@@ -45,7 +45,8 @@ The dataset contains 284,807 transactions and 31 features. Most variables have b
 
 The models were compared using multiple evaluation metrics to identify the most effective approach for detecting fraudulent transactions in an imbalanced dataset.
 
-## Author
+## Author 
+Gloria Oluchi Madu
 
 Julius Ugochukwu Ebika
 
