@@ -48,5 +48,4 @@ The models were compared using multiple evaluation metrics to identify the most 
 ## Author 
 Gloria Oluchi Madu
 
-Julius Ugochukwu Ebika
 
